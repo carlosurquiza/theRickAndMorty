@@ -38,7 +38,7 @@
         android:layout_marginTop="32dp"
         android:ems="10"
         android:hint="@string/email"
-        android:inputType="textPersonName"
+        android:inputType="textEmailAddress"
         android:textColor="@color/white"
         android:textColorHint="@color/grey_700"
         app:layout_constraintEnd_toEndOf="parent"
