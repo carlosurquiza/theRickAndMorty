@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">The Rick and Morty</string>
+    <string name="image_content">description</string>
+
+    <string name="status_item">Status: %1$s</string>
+    <string name="species_item">Species: %1$s</string>
+    <string name="gender_item">Gender: %1$s</string>
+    <string name="origin_item">Origin: %1$s</string>
+    <string name="location_name_item">Location name: %1$s</string>
+    <string name="created_item">Created: %1$s</string>
+
+    <string name="short_text">
+    "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+    </string>
+    <string name="error">An error occurred</string>
+    <string name="retry">Retry</string>
+</resources>
